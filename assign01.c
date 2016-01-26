@@ -1,1 +1,1 @@
-#This is going to be used to the first assignment simulater.
+#This is a simulator  in regards to assignment C313
